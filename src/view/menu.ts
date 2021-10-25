@@ -1,4 +1,4 @@
-import { leerTeclado } from '../view/lecturaTeclado'
+import { leerTeclado } from '../functions/lecturaTeclado'
 
 export const menuViviendas = async () => {
     let n: number

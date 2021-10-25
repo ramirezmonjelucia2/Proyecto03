@@ -1,8 +1,7 @@
-import { leerTeclado } from '../view/lecturaTeclado'
+import { leerTeclado } from '../functions/lecturaTeclado'
 import { Vivienda } from '../classes/viviendas'
 import { Casa } from '../classes/casas'
 import { Chalet } from '../classes/chalets'
-import { menuViviendas } from '../view/menu'
 
 export const nuevaVivienda = async (viviendas: Array<Vivienda>) => {
     let vivi: Vivienda;
