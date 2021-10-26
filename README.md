@@ -1,11 +1,11 @@
-# Primer proyecto TypeScript
+# PROYECTO HERENCIAS Y POLIMORFISMO
 
 _Realizado por Lucía Ramírez Monje 2ºAsir A_
 _Fecha 25/10/2021_
 
 ## Comenzando 🚀
 
-_Proyecto compuesto por dos directorios principales, las [Nociones teóricas](https://github.com/ramirezmonjelucia2/Proyecto03/blob/main/doc/NOCIONES%20TE%C3%93RICAS%20-%20HERENCIAS.pdf), la [Guía de instalación](https://github.com/ramirezmonjelucia2/Proyecto03/blob/main/doc/MANUAL%20INSTALACI%C3%93N.pdf) y la carpeta [src](https://github.com/ramirezmonjelucia2/Proyecto03/tree/main/src) donde se desarrolla el proyecto_
+_Proyecto compuesto por dos directorios principales,  y la carpeta [doc](https://github.com/ramirezmonjelucia2/Proyecto03/tree/main/doc) con las [nociones teóricas](https://github.com/ramirezmonjelucia2/Proyecto03/blob/main/doc/NOCIONES%20TE%C3%93RICAS%20-%20HERENCIAS.pdf) sobre el proyecto y el [manual de instalación](https://github.com/ramirezmonjelucia2/Proyecto03/blob/main/doc/MANUAL%20INSTALACI%C3%93N.pdf), y la carpeta [src](https://github.com/ramirezmonjelucia2/Proyecto03/tree/main/src) donde se desarrolla el proyecto_
 
 
 ### Documentación 📋
