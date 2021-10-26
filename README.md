@@ -1,7 +1,6 @@
 # PROYECTO HERENCIAS Y POLIMORFISMO
 
-_Realizado por Lucía Ramírez Monje 2ºAsir A_
-_Fecha 25/10/2021_
+_Realizado por Lucía Ramírez Monje 2ºAsir_
 
 ## Comenzando 🚀
 
@@ -25,7 +24,7 @@ _MANUAL DE INSTALACIÓN_
 _NOCIONES TEÓRICAS_
 
 ```
-1.	NOCIONES TEÓRICAS
+1.  NOCIONES TEÓRICAS
 2.  CONCEPTOS USADOS
 
 ```
