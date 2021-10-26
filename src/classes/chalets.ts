@@ -12,10 +12,13 @@ export class Chalet extends Vivienda {
 
 
   preciom2(): number {
-    let preciom2: number;
-    preciom2 = super.preciom2();
+    let preciom2: number
+    let preciosjardin: number
+    preciom2 = super.preciom2()
+    preciosjardin = this.sjardin() * 1941
+    preciom2 = preciom2 + preciosjardin
     if (this._piscina == true) {
-      preciom2 += 200;
+      preciom2 += 200 
     }
     return preciom2;
   }

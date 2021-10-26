@@ -2,7 +2,7 @@ export class Vivienda {
   private _idVivienda: number
   private _largo: number
   private _ancho: number
-  ciudad: string
+  public ciudad: string
   constructor(idVivienda: number, largo: number, ancho: number, ciudad: string) {
     this._idVivienda = idVivienda
     this._largo = largo
