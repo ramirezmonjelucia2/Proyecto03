@@ -2,17 +2,20 @@ export class Vivienda {
   private _idVivienda: number
   private _largo: number
   private _ancho: number
-  public ciudad: string
+  private _ciudad: string
   constructor(idVivienda: number, largo: number, ancho: number, ciudad: string) {
     this._idVivienda = idVivienda
     this._largo = largo
     this._ancho = ancho
-    this.ciudad = ciudad
+    this._ciudad = ciudad
   }
   get idVivienda() {
     return this._idVivienda
   }
 
+ cogerCiudad(ciudad: string){
+  this._ciudad = ciudad
+}
 
   get largo() {
     return this._largo
@@ -33,6 +36,6 @@ export class Vivienda {
     return superficie
   }
   todo() {
-    return `Superficie(m2): ${this.superficie()}, PrecioTotal: ${this.preciom2()}€, Ciudad: ${this.ciudad}`;
+    return `Superficie(m2): ${this.superficie()}, PrecioTotal: ${this.preciom2()}€, Ciudad: ${this._ciudad}`;
   }
 }

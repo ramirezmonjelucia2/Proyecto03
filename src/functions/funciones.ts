@@ -60,7 +60,7 @@ export const borrarvivienda = async (viviendas: Array<Vivienda>) => {
 export const modificarvivienda = async (viviendas: Array<Vivienda>) => {
     let city: string = await leerTeclado('\nIntroduce la nueva ciudad ')
     viviendas.forEach(function (item) {
-        item.ciudad = city
+        item.cogerCiudad(city)
     })
 
 }
